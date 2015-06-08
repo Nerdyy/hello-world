@@ -44,7 +44,7 @@
     <h1>Brady</h1>
     <p>Be awesome.</p>
 <BODY BGCOLOR="FEEFD">
-<details> you're awesome </details>
+
 
 </div>
 </body>

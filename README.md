@@ -44,7 +44,7 @@
     <h1>Brady</h1>
     <p>Be awesome.</p>
     <CENTER>
-center><script type="text/javascript" src="http://htmlfreecodes.com/userdata/user/20/20622/1330/parts.jpg"></script>
+<center><script type="text/javascript" src="http://htmlfreecodes.com/userdata/user/20/20622/1330/parts.jpg"></script>
 </center>
 <a target="_blank" href="http://www.htmlfreecodes.com" style="font-size: 8pt; text-decoration: none">Html Codes</a>
 
